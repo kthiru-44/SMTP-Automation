@@ -19,20 +19,6 @@ This Python script automates the process of sending birthday wishes via email us
    - The name placeholder `[NAME]` is replaced with the recipient’s name
    - An email is sent using your SMTP credentials
 
-## File Structure
-
-birthday_wisher/
-├── main.py # Main script that runs the automation
-├── birthdays.csv # Stores birthday info: name,email,year,month,day
-├── letter_templates/
-│ ├── letter_1.txt
-│ ├── letter_2.txt
-│ └── letter_3.txt
-└── README.md # Project documentation
-
-markdown
-Copy
-Edit
 
 ## Requirements
 
